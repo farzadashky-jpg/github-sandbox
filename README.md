@@ -1,7 +1,7 @@
-ipdhuh# github-sandbox
+thhgfhhipdhuh# github-sandbox
 
 # 📥 Download Files via Commit Message
-
+hhh
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
 ---
@@ -10,7 +10,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 
 0. Fork this repo
 1. Go to your repository on GitHub
-2. Click **Settings** → **Actions** → **General**
+2. Click **Settings** → **Actions** → **Genehgral**
 3. Scroll down to **Workflow permissions**
 4. Select **Read and write permissions** and click **Save**
 
