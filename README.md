@@ -1,5 +1,5 @@
 thhgfh# github-
-# 📥 Download Files via it Message
+# 📥 Download Files via it Mge
 hhh
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
