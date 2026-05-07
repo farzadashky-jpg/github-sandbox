@@ -1,6 +1,5 @@
 thh
 # 📥 Dow
-weebheadreacts
 luluch_code
 apkclub
 .
